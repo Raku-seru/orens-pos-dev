@@ -15,4 +15,4 @@ Screenshots : TBA<br>
 Dev. Notes : TBA<br>
 
 <br><br>
-2022 OrensDev Team (Raxel AK, Ryan Pandu)
+2022 OrensDev Team
